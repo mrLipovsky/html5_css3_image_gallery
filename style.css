@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+
+iframe{
+    width: 550px; 
+    height: 550px;
+    border:none;
+    image-orientation: center;
+}
+
+
+.img{
+    width: 100px; 
+    image-orientation: center;
+}
+
+
+
